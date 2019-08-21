@@ -1,0 +1,2 @@
+[22-Feb-2019 19:15:21 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sigkopba/public_html/lib/wp/print_wp.php on line 100
+[22-Feb-2019 19:15:41 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sigkopba/public_html/lib/wp/print_wp.php on line 100
